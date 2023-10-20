@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sanja-simic, 20 years old 
+- 👋 Hi, I’m @sanja-simic, 21 years old 
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning languages like Java, C++ and C
 - 💞️ I’m looking to collaborate on ...
