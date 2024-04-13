@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @sanja-simic, 22 years old 
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning languages like Java, C++ and C
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I am Sanja Simic 22 years old, third year student of Applied Software Engineering at the University of Novi Sad.
+I'm eager for new knowledge, and I'm currently focusing on web programming at university.
+The skills I have are from areas such as C, C++, C#, Java, Pjthon, VHDL, Assembler, Julia and many more.
+
 
 <!---
 sanja-simic/sanja-simic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
